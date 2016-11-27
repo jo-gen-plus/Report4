@@ -2,6 +2,7 @@ package jp.ac.uryukyu.ie.e165715;
 
 /**
  * Created by e165715 on 2016/11/15.
+ *
  */
 
 public class Main {
